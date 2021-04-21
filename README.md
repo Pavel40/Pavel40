@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Pavel40
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @Pavel40
 
-<!---
-Pavel40/Pavel40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Alright, let me introduce myself - my name is Pavel, and I’m a programmer and web designer (or at least I think I am).
+
+## About me
+
+I am a programmer, web designer, and 🎮 game developer. Or at least I'm doing my best to be one. I like to explore new things, practice coding and play computer games.
+
+If, for whatever reason, you want to know what is my favorite computer game and what is my favorite 📖 book, I can tell you I really like The Witcher books and games.
+
+### Favorite technologies
++ **Python 3** - my favorite programming language
++ **Tailwind CSS** - my favorite CSS framework
++ **Godot engine** - my favorite game engine
