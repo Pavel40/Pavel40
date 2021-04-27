@@ -37,4 +37,4 @@ I’m also trying to get into game developement. I’m not very experienced, rea
 
 ![Image of my game](jumping-shit.gif)
 
-If you don’t have anything to do, feel free to check my attempts on games on my itch.io. They’re all free, of course.
+If you don’t have anything to do, feel free to check my attempts on games on [my itch.io](https://pavel40.itch.io/). They’re all free, of course.
