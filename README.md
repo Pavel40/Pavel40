@@ -28,6 +28,8 @@ I can design and create great looking websites using modern technologies - HTML 
 
 I am also able to convert PSD (PhotoShop) or XCF (GIMP) files to responsive HTML templates.
 
+![another funny gif](https://media.giphy.com/media/fWvearisGQpGiVP3BT/giphy.gif)
+
 ## Game developement
 
 I’m also trying to get into game developement. I’m not very experienced, really just a beginner. I’m learning to use Godot Engine, because it’s free and open-source.
