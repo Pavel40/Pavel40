@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @Pavel40
 
-Alright, let me introduce myself - my name is Pavel, and I’m a programmer and web designer (or at least I think I am).
+Alright, let me introduce myself - my name is Pavel, and I’m a programmer and web developer (or at least I think I am).
 
 My email 📬 : <pav40@protonmail.com>  
 My personal website: [pavel40.github.io](https://www.pavel40.github.io)
 
 ## About me
 
-I am a programmer, web designer, and 🎮 game developer. Or at least I'm doing my best to be one. I like to explore new things, practice coding and play computer games.
+I am a programmer, web developer and a bit of a designer, and 🎮 game developer. Or at least I'm doing my best to be one. I like to explore new things, practice coding and play computer games.
 
 If, for whatever reason, you want to know what is my favorite computer game and what is my favorite 📖 book, I can tell you I really like The Witcher books and games.
 
@@ -18,15 +18,15 @@ If, for whatever reason, you want to know what is my favorite computer game and 
 
 ## Programming
 
-My favorite programming language is **Python 3**. I have some basic knowledge of the Flask microframework, which I can use as backend of web applications. Another option for backend of web apps is **PHP**, of which I know some basics too (but I don't like PHP). I can also create scripts for my websites in vanilla **JavaScript** ES6. I also know a tiny bit of C (and a bit of C++, I'm interested in Arduino, and Internet of Things).
+My favorite programming language is **Python 3**. I have some basic knowledge of the Flask microframework, which I can use as backend of web applications. I also know the **PHP** programming language. When I do backend developement, I use PHP most of the time. I can also create scripts for my websites in vanilla modern **JavaScript** or use the VueJS frontend framework. I also know a tiny bit of C (and a bit of C++, I'm interested in Arduino, and the Internet of Things).
 
 ![Funny gif](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
-## Web design
+## Web design and template coding
 
-I can design and create great looking websites using modern technologies - HTML 5, CSS 3, and JavaScript ES6. I can also use Bootstrap and Bulma framework to build websites really fast. I make responsive websites (the site fits every screen) and I can also enable dark mode.
+My web design skills are not the best. But I think I am improving them. You can take a look at my personal portfolio as an example of my web design skills.
 
-I am also able to convert PSD (PhotoShop) or XCF (GIMP) files to responsive HTML templates.
+I am able to do some template coding. I use modern technologies - HTML 5, CSS 3, and modern JavaScript. I can use CSS frameworks Bulma, Bootstrap or TailwindCSS to build websites faster. My templates are responsive, they fit every screen. I can also create templates with dark mode.
 
 ![another funny gif](https://media.giphy.com/media/fWvearisGQpGiVP3BT/giphy.gif)
 
